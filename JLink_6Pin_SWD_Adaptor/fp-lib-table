@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name IDC_PCB_Edge_Connectors)(type KiCad)(uri ${KIPRJMOD}/../../KicadLibrary/footprint/CONNECTORS/SIGNAL/IDC_PCB_Edge_Connectors.pretty)(options "")(descr ""))
+)
